@@ -92,16 +92,6 @@ Through this project, I gained practical understanding of:
 
 ---
 
-## Repository Contents
-
-```
-├── Mine_Model.xlsx
-├── Project_Report.pdf
-├── README.md
-```
-
----
-
 ## Author
 
 **Archita Singh**  
